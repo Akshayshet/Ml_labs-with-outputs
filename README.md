@@ -12,6 +12,8 @@ Several options are available to get started:
 >install anaconda
 >create a folder on your local machine
 >from that folder open cmd and type "activate root" then type "jupyter notebook"
->paste all csv files in that folder
+>paste all csv files in that folder and execute
+
+#ALLTHEBEST
 
 

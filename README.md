@@ -5,7 +5,7 @@ All Mllab programs vtu 7th sem cse 15CSL76
 #Getting Started
 Several options are available to get started:
 
->Clone the repo at git clone https://github.com/Akshayshet/ml_lab
+>Clone the repo at git clone https://github.com/Akshayshet/Ml_labs-with-outputs
 >Fork the repository if you think you can contribute back
 
 #How to execute
